@@ -1,0 +1,2 @@
+variante,mejor val_acc,mejor época,val_acc final,train_acc final,gap final (train - val),val_loss final / mín,época de convergencia,tiempo hasta converger (s),s/época,mean |w| capa 1,mean |w| salida,% pesos |w|≤1e-3,ruido train_acc,ruido val_acc,diverge
+sin regularización,0.6372 ± 0.0122,3.7 ± 0.9,0.6184 ± 0.0162,0.9724 ± 0.0007,0.3541 ± 0.0157,2.08 ± 0.10,3.7 ± 0.9,1.29 ± 0.48,0.312 ± 0.005,0.04606 ± 0.00166,0.14755 ± 0.00228,1.5 ± 0.1,0.0018 ± 0.0002,0.0031 ± 0.0001,False
